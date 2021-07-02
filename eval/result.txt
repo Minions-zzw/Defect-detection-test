@@ -1,0 +1,1 @@
+mae:0.0035 , max-fmeasure:0.9845 ,  max-Emeasure:0.9964, S-measure:0.9677 ,fps:48.6433 
